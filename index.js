@@ -19,5 +19,5 @@ var funkyFunction = function() {
     return "FUNKY!"
   }
 }
-var theFunk = funkyFunction();
-console.log(theFunk(string));
+var theFunk = funkyFunction("FUNKY!");
+
