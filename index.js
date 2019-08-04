@@ -21,5 +21,5 @@ var funkyFunction = function() {
 }
 var theFunk = funkyFunction(); 
 
-funkyFunction(string);
+console.log(funkyFunction(string));
 
